@@ -1,0 +1,464 @@
+{
+    "allKeywords": [],
+    "actions": [
+        {
+            "id": "e4b68250-615d-41c3-860a-3b7c618d235c",
+            "details": "PresQT Upload to GitHub",
+            "actionDateTime": "2020-08-31 14:27:34.435580+00:00",
+            "actionType": "resource_upload",
+            "sourceTargetName": "Local Machine",
+            "sourceUsername": null,
+            "destinationTargetName": "github",
+            "destinationUsername": "emetsger",
+            "keywords": {},
+            "files": {
+                "created": [
+                    {
+                        "destinationHashes": {},
+                        "destinationPath": "/film-datasheets/Ektachrome_100Plus.pdf",
+                        "failedFixityInfo": [
+                            {
+                                "NewGeneratedHash": "3de8ce4e3eac62a9519121ef1fab65aa",
+                                "algorithmUsed": "md5",
+                                "reasonFixityFailed": "Either the destination did not provide a hash or fixity failed during upload."
+                            }
+                        ],
+                        "title": "Ektachrome_100Plus.pdf",
+                        "sourceHashes": {
+                            "md5": "3de8ce4e3eac62a9519121ef1fab65aa"
+                        },
+                        "sourcePath": "/film-datasheets/Ektachrome_100Plus.pdf",
+                        "extra": {}
+                    },
+                    {
+                        "destinationHashes": {},
+                        "destinationPath": "/film-datasheets/kodak-plus-x-pan.pdf",
+                        "failedFixityInfo": [
+                            {
+                                "NewGeneratedHash": "7538891a1d9a5c330b50f71156ff3778",
+                                "algorithmUsed": "md5",
+                                "reasonFixityFailed": "Either the destination did not provide a hash or fixity failed during upload."
+                            }
+                        ],
+                        "title": "kodak-plus-x-pan.pdf",
+                        "sourceHashes": {
+                            "md5": "7538891a1d9a5c330b50f71156ff3778"
+                        },
+                        "sourcePath": "/film-datasheets/kodak-plus-x-pan.pdf",
+                        "extra": {}
+                    },
+                    {
+                        "destinationHashes": {},
+                        "destinationPath": "/film-datasheets/ilford_temperature-compensation-chart.pdf",
+                        "failedFixityInfo": [
+                            {
+                                "NewGeneratedHash": "f8fb9e6c0befa7f1d72374f0a7f70599",
+                                "algorithmUsed": "md5",
+                                "reasonFixityFailed": "Either the destination did not provide a hash or fixity failed during upload."
+                            }
+                        ],
+                        "title": "ilford_temperature-compensation-chart.pdf",
+                        "sourceHashes": {
+                            "md5": "f8fb9e6c0befa7f1d72374f0a7f70599"
+                        },
+                        "sourcePath": "/film-datasheets/ilford_temperature-compensation-chart.pdf",
+                        "extra": {}
+                    },
+                    {
+                        "destinationHashes": {},
+                        "destinationPath": "/film-datasheets/ilford_hp5.pdf",
+                        "failedFixityInfo": [
+                            {
+                                "NewGeneratedHash": "3c829c6278ba6dc3c6902012b53e90d8",
+                                "algorithmUsed": "md5",
+                                "reasonFixityFailed": "Either the destination did not provide a hash or fixity failed during upload."
+                            }
+                        ],
+                        "title": "ilford_hp5.pdf",
+                        "sourceHashes": {
+                            "md5": "3c829c6278ba6dc3c6902012b53e90d8"
+                        },
+                        "sourcePath": "/film-datasheets/ilford_hp5.pdf",
+                        "extra": {}
+                    },
+                    {
+                        "destinationHashes": {},
+                        "destinationPath": "/film-datasheets/agfa.pdf",
+                        "failedFixityInfo": [
+                            {
+                                "NewGeneratedHash": "f693b5626f160a2989b78fd1c78d081c",
+                                "algorithmUsed": "md5",
+                                "reasonFixityFailed": "Either the destination did not provide a hash or fixity failed during upload."
+                            }
+                        ],
+                        "title": "agfa.pdf",
+                        "sourceHashes": {
+                            "md5": "f693b5626f160a2989b78fd1c78d081c"
+                        },
+                        "sourcePath": "/film-datasheets/agfa.pdf",
+                        "extra": {}
+                    },
+                    {
+                        "destinationHashes": {},
+                        "destinationPath": "/film-datasheets/fuji_astia_100f_datasheet.pdf",
+                        "failedFixityInfo": [
+                            {
+                                "NewGeneratedHash": "38c0b027a43160dd3fba6e8e8ceb4259",
+                                "algorithmUsed": "md5",
+                                "reasonFixityFailed": "Either the destination did not provide a hash or fixity failed during upload."
+                            }
+                        ],
+                        "title": "fuji_astia_100f_datasheet.pdf",
+                        "sourceHashes": {
+                            "md5": "38c0b027a43160dd3fba6e8e8ceb4259"
+                        },
+                        "sourcePath": "/film-datasheets/fuji_astia_100f_datasheet.pdf",
+                        "extra": {}
+                    },
+                    {
+                        "destinationHashes": {},
+                        "destinationPath": "/film-datasheets/ilford_fp4.pdf",
+                        "failedFixityInfo": [
+                            {
+                                "NewGeneratedHash": "e253a1a5ff4dc2fccd336413856c1e6f",
+                                "algorithmUsed": "md5",
+                                "reasonFixityFailed": "Either the destination did not provide a hash or fixity failed during upload."
+                            }
+                        ],
+                        "title": "ilford_fp4.pdf",
+                        "sourceHashes": {
+                            "md5": "e253a1a5ff4dc2fccd336413856c1e6f"
+                        },
+                        "sourcePath": "/film-datasheets/ilford_fp4.pdf",
+                        "extra": {}
+                    },
+                    {
+                        "destinationHashes": {},
+                        "destinationPath": "/film-datasheets/characteristic_curve_info_kodak.pdf",
+                        "failedFixityInfo": [
+                            {
+                                "NewGeneratedHash": "092303e9350b82a37f3c802768a1e706",
+                                "algorithmUsed": "md5",
+                                "reasonFixityFailed": "Either the destination did not provide a hash or fixity failed during upload."
+                            }
+                        ],
+                        "title": "characteristic_curve_info_kodak.pdf",
+                        "sourceHashes": {
+                            "md5": "092303e9350b82a37f3c802768a1e706"
+                        },
+                        "sourcePath": "/film-datasheets/characteristic_curve_info_kodak.pdf",
+                        "extra": {}
+                    },
+                    {
+                        "destinationHashes": {},
+                        "destinationPath": "/film-datasheets/ilford_delta400.pdf",
+                        "failedFixityInfo": [
+                            {
+                                "NewGeneratedHash": "192a303ab60abede010029d88d07930d",
+                                "algorithmUsed": "md5",
+                                "reasonFixityFailed": "Either the destination did not provide a hash or fixity failed during upload."
+                            }
+                        ],
+                        "title": "ilford_delta400.pdf",
+                        "sourceHashes": {
+                            "md5": "192a303ab60abede010029d88d07930d"
+                        },
+                        "sourcePath": "/film-datasheets/ilford_delta400.pdf",
+                        "extra": {}
+                    },
+                    {
+                        "destinationHashes": {},
+                        "destinationPath": "/film-datasheets/ProfessionalFilmDataGuide.pdf",
+                        "failedFixityInfo": [
+                            {
+                                "NewGeneratedHash": "f45b3d87e7cdec94408a458034d6ce03",
+                                "algorithmUsed": "md5",
+                                "reasonFixityFailed": "Either the destination did not provide a hash or fixity failed during upload."
+                            }
+                        ],
+                        "title": "ProfessionalFilmDataGuide.pdf",
+                        "sourceHashes": {
+                            "md5": "f45b3d87e7cdec94408a458034d6ce03"
+                        },
+                        "sourcePath": "/film-datasheets/ProfessionalFilmDataGuide.pdf",
+                        "extra": {}
+                    },
+                    {
+                        "destinationHashes": {},
+                        "destinationPath": "/film-datasheets/fomapan-400.pdf",
+                        "failedFixityInfo": [
+                            {
+                                "NewGeneratedHash": "c01178f042b481ede37f6f90db2f44f1",
+                                "algorithmUsed": "md5",
+                                "reasonFixityFailed": "Either the destination did not provide a hash or fixity failed during upload."
+                            }
+                        ],
+                        "title": "fomapan-400.pdf",
+                        "sourceHashes": {
+                            "md5": "c01178f042b481ede37f6f90db2f44f1"
+                        },
+                        "sourcePath": "/film-datasheets/fomapan-400.pdf",
+                        "extra": {}
+                    },
+                    {
+                        "destinationHashes": {},
+                        "destinationPath": "/film-datasheets/fuji_T64II_RTPIIAF3-024E_1.pdf",
+                        "failedFixityInfo": [
+                            {
+                                "NewGeneratedHash": "47d9473c45fd4249d214f35ce38ef055",
+                                "algorithmUsed": "md5",
+                                "reasonFixityFailed": "Either the destination did not provide a hash or fixity failed during upload."
+                            }
+                        ],
+                        "title": "fuji_T64II_RTPIIAF3-024E_1.pdf",
+                        "sourceHashes": {
+                            "md5": "47d9473c45fd4249d214f35ce38ef055"
+                        },
+                        "sourcePath": "/film-datasheets/fuji_T64II_RTPIIAF3-024E_1.pdf",
+                        "extra": {}
+                    },
+                    {
+                        "destinationHashes": {},
+                        "destinationPath": "/film-datasheets/txp320.pdf",
+                        "failedFixityInfo": [
+                            {
+                                "NewGeneratedHash": "bc1975f9d86e7a26ba6f3f85ee16ba6b",
+                                "algorithmUsed": "md5",
+                                "reasonFixityFailed": "Either the destination did not provide a hash or fixity failed during upload."
+                            }
+                        ],
+                        "title": "txp320.pdf",
+                        "sourceHashes": {
+                            "md5": "bc1975f9d86e7a26ba6f3f85ee16ba6b"
+                        },
+                        "sourcePath": "/film-datasheets/txp320.pdf",
+                        "extra": {}
+                    },
+                    {
+                        "destinationHashes": {},
+                        "destinationPath": "/film-datasheets/fuji_T64_PIB.pdf",
+                        "failedFixityInfo": [
+                            {
+                                "NewGeneratedHash": "0077cd8cb542e8c6665ab27f5b0d9f0c",
+                                "algorithmUsed": "md5",
+                                "reasonFixityFailed": "Either the destination did not provide a hash or fixity failed during upload."
+                            }
+                        ],
+                        "title": "fuji_T64_PIB.pdf",
+                        "sourceHashes": {
+                            "md5": "0077cd8cb542e8c6665ab27f5b0d9f0c"
+                        },
+                        "sourcePath": "/film-datasheets/fuji_T64_PIB.pdf",
+                        "extra": {}
+                    },
+                    {
+                        "destinationHashes": {},
+                        "destinationPath": "/film-datasheets/provia_400x_datasheet.pdf",
+                        "failedFixityInfo": [
+                            {
+                                "NewGeneratedHash": "9023253365112999dec19178b0ccd132",
+                                "algorithmUsed": "md5",
+                                "reasonFixityFailed": "Either the destination did not provide a hash or fixity failed during upload."
+                            }
+                        ],
+                        "title": "provia_400x_datasheet.pdf",
+                        "sourceHashes": {
+                            "md5": "9023253365112999dec19178b0ccd132"
+                        },
+                        "sourcePath": "/film-datasheets/provia_400x_datasheet.pdf",
+                        "extra": {}
+                    },
+                    {
+                        "destinationHashes": {},
+                        "destinationPath": "/film-datasheets/velvia_50_datasheet.pdf",
+                        "failedFixityInfo": [
+                            {
+                                "NewGeneratedHash": "93356faaf5961ea3405c01673360616c",
+                                "algorithmUsed": "md5",
+                                "reasonFixityFailed": "Either the destination did not provide a hash or fixity failed during upload."
+                            }
+                        ],
+                        "title": "velvia_50_datasheet.pdf",
+                        "sourceHashes": {
+                            "md5": "93356faaf5961ea3405c01673360616c"
+                        },
+                        "sourcePath": "/film-datasheets/velvia_50_datasheet.pdf",
+                        "extra": {}
+                    },
+                    {
+                        "destinationHashes": {},
+                        "destinationPath": "/film-datasheets/pro_400h_datasheet.pdf",
+                        "failedFixityInfo": [
+                            {
+                                "NewGeneratedHash": "61b77af8bd4c093b430b5b8cd0e4ef4a",
+                                "algorithmUsed": "md5",
+                                "reasonFixityFailed": "Either the destination did not provide a hash or fixity failed during upload."
+                            }
+                        ],
+                        "title": "pro_400h_datasheet.pdf",
+                        "sourceHashes": {
+                            "md5": "61b77af8bd4c093b430b5b8cd0e4ef4a"
+                        },
+                        "sourcePath": "/film-datasheets/pro_400h_datasheet.pdf",
+                        "extra": {}
+                    },
+                    {
+                        "destinationHashes": {},
+                        "destinationPath": "/film-datasheets/kodak_tmax100.pdf",
+                        "failedFixityInfo": [
+                            {
+                                "NewGeneratedHash": "cf7234035a33c0376da10d2c9c5e1610",
+                                "algorithmUsed": "md5",
+                                "reasonFixityFailed": "Either the destination did not provide a hash or fixity failed during upload."
+                            }
+                        ],
+                        "title": "kodak_tmax100.pdf",
+                        "sourceHashes": {
+                            "md5": "cf7234035a33c0376da10d2c9c5e1610"
+                        },
+                        "sourcePath": "/film-datasheets/kodak_tmax100.pdf",
+                        "extra": {}
+                    },
+                    {
+                        "destinationHashes": {},
+                        "destinationPath": "/film-datasheets/kodak_plus-x.pdf",
+                        "failedFixityInfo": [
+                            {
+                                "NewGeneratedHash": "327e865278ba02641bb31cf1b1b6df5c",
+                                "algorithmUsed": "md5",
+                                "reasonFixityFailed": "Either the destination did not provide a hash or fixity failed during upload."
+                            }
+                        ],
+                        "title": "kodak_plus-x.pdf",
+                        "sourceHashes": {
+                            "md5": "327e865278ba02641bb31cf1b1b6df5c"
+                        },
+                        "sourcePath": "/film-datasheets/kodak_plus-x.pdf",
+                        "extra": {}
+                    },
+                    {
+                        "destinationHashes": {},
+                        "destinationPath": "/film-datasheets/ilford_panf.pdf",
+                        "failedFixityInfo": [
+                            {
+                                "NewGeneratedHash": "b5942799e5a7e27cbb439a70236dc7f9",
+                                "algorithmUsed": "md5",
+                                "reasonFixityFailed": "Either the destination did not provide a hash or fixity failed during upload."
+                            }
+                        ],
+                        "title": "ilford panf.pdf",
+                        "sourceHashes": {
+                            "md5": "b5942799e5a7e27cbb439a70236dc7f9"
+                        },
+                        "sourcePath": "/film-datasheets/ilford panf.pdf",
+                        "extra": {}
+                    },
+                    {
+                        "destinationHashes": {},
+                        "destinationPath": "/film-datasheets/Fuji_acros.pdf",
+                        "failedFixityInfo": [
+                            {
+                                "NewGeneratedHash": "0be9069d129d8b4ba50715be4cbdac93",
+                                "algorithmUsed": "md5",
+                                "reasonFixityFailed": "Either the destination did not provide a hash or fixity failed during upload."
+                            }
+                        ],
+                        "title": "Fuji_acros.pdf",
+                        "sourceHashes": {
+                            "md5": "0be9069d129d8b4ba50715be4cbdac93"
+                        },
+                        "sourcePath": "/film-datasheets/Fuji_acros.pdf",
+                        "extra": {}
+                    },
+                    {
+                        "destinationHashes": {},
+                        "destinationPath": "/film-datasheets/ilford_delta3200.pdf",
+                        "failedFixityInfo": [
+                            {
+                                "NewGeneratedHash": "ddf4845e9b0806fef001a094a7cac86a",
+                                "algorithmUsed": "md5",
+                                "reasonFixityFailed": "Either the destination did not provide a hash or fixity failed during upload."
+                            }
+                        ],
+                        "title": "ilford_delta3200.pdf",
+                        "sourceHashes": {
+                            "md5": "ddf4845e9b0806fef001a094a7cac86a"
+                        },
+                        "sourcePath": "/film-datasheets/ilford_delta3200.pdf",
+                        "extra": {}
+                    },
+                    {
+                        "destinationHashes": {},
+                        "destinationPath": "/film-datasheets/ilford_delta100.pdf",
+                        "failedFixityInfo": [
+                            {
+                                "NewGeneratedHash": "0b8ce34bbd8fb0a86608711faafcbe03",
+                                "algorithmUsed": "md5",
+                                "reasonFixityFailed": "Either the destination did not provide a hash or fixity failed during upload."
+                            }
+                        ],
+                        "title": "ilford_delta100.pdf",
+                        "sourceHashes": {
+                            "md5": "0b8ce34bbd8fb0a86608711faafcbe03"
+                        },
+                        "sourcePath": "/film-datasheets/ilford_delta100.pdf",
+                        "extra": {}
+                    },
+                    {
+                        "destinationHashes": {},
+                        "destinationPath": "/film-datasheets/pro_800z_datasheet.pdf",
+                        "failedFixityInfo": [
+                            {
+                                "NewGeneratedHash": "daf8b546f055d57e2ab84bc35e862c75",
+                                "algorithmUsed": "md5",
+                                "reasonFixityFailed": "Either the destination did not provide a hash or fixity failed during upload."
+                            }
+                        ],
+                        "title": "pro_800z_datasheet.pdf",
+                        "sourceHashes": {
+                            "md5": "daf8b546f055d57e2ab84bc35e862c75"
+                        },
+                        "sourcePath": "/film-datasheets/pro_800z_datasheet.pdf",
+                        "extra": {}
+                    },
+                    {
+                        "destinationHashes": {},
+                        "destinationPath": "/film-datasheets/tmax_400_datasheet.pdf",
+                        "failedFixityInfo": [
+                            {
+                                "NewGeneratedHash": "d19f0a56fbef407e749afb642770f501",
+                                "algorithmUsed": "md5",
+                                "reasonFixityFailed": "Either the destination did not provide a hash or fixity failed during upload."
+                            }
+                        ],
+                        "title": "tmax_400_datasheet.pdf",
+                        "sourceHashes": {
+                            "md5": "d19f0a56fbef407e749afb642770f501"
+                        },
+                        "sourcePath": "/film-datasheets/tmax_400_datasheet.pdf",
+                        "extra": {}
+                    },
+                    {
+                        "destinationHashes": {},
+                        "destinationPath": "/film-datasheets/trix_400.pdf",
+                        "failedFixityInfo": [
+                            {
+                                "NewGeneratedHash": "bc1975f9d86e7a26ba6f3f85ee16ba6b",
+                                "algorithmUsed": "md5",
+                                "reasonFixityFailed": "Either the destination did not provide a hash or fixity failed during upload."
+                            }
+                        ],
+                        "title": "trix_400.pdf",
+                        "sourceHashes": {
+                            "md5": "bc1975f9d86e7a26ba6f3f85ee16ba6b"
+                        },
+                        "sourcePath": "/film-datasheets/trix_400.pdf",
+                        "extra": {}
+                    }
+                ],
+                "updated": [],
+                "ignored": []
+            }
+        }
+    ]
+}
